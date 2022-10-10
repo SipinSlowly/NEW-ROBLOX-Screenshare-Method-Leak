@@ -6,6 +6,6 @@ convince them to go to reset their password and goto their email, tell them thin
 then click on the reset password button. after that their reset link will flash, quickly screenshot it and go to https://www.prepostseo.com/image-to-text and convert it. 
 to make sure the 2fa code will/will not send BEFORE you reset the password, tell them to go back to their normal emails, and if the 2fa code popup put it back into the reset password link
 
-I also just realized while editing this, you can also go to account selling discord servers and do the steps above to verify they actually own the account.
+I also just realized while editing this, you can also go to account selling discord servers and do the steps above to "verify they actually own the account".
 
 Happy hitting!
