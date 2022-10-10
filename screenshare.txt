@@ -2,7 +2,7 @@ dm someone acting like they were caught compromising roblox accounts
 once they respond send "You have been reported in a support ticket for compromising our community members account and stealing the limiteds that they have within that account."
 if they are confused/ they are cooperating say "The ban was given and reported by one of our staff, if you believe this is false, please let me know"
 once you do that ask them to add you so they can speak to the higher ups, but in reality it will just be your alt.
-convince them to go to reset their password and goto their email, tell them things like this can be tampered with, can you go to inspect. once they go to inspect tell them to click the mobile icon
+convince them to go to reset their password and goto their email, tell them things like this can be tampered with, can you go to inspect. once they go to inspect tell them to click the button ***BESIDE*** the mobile icon.
 then click on the reset password button. after that their reset link will flash, quickly screenshot it and go to https://www.prepostseo.com/image-to-text and convert it. 
 to make sure the 2fa code will/will not send BEFORE you reset the password, tell them to go back to their normal emails, and if the 2fa code popup put it back into the reset password link
 
