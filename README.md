@@ -5,5 +5,5 @@ This is also the first time this version has ever been leaked, I decided to leak
 check screenshare.txt for the method/steps and ways to convince them.
 
 
-This method only works 20% of the time, because there will be 0's and O's that img to text converters cannot seperate. check out my other repository for a method thatll work 100% of the time
+This method only works 20% of the time, because there will be 0's and O's that img to text converters cannot seperate. check out my other repository https://github.com/SipinSlowly/roblox-screenshare-method-v2 for a method thatll work 100% of the time
 
