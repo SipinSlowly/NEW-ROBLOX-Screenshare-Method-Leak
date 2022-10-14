@@ -8,4 +8,3 @@ to make sure the 2fa code will/will not send BEFORE you reset the password, tell
 
 I also just realized while editing this, you can also go to account selling discord servers and do the steps above to "verify they actually own the account".
 
-Happy hitting!
